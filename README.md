@@ -39,9 +39,9 @@ The Power BI dashboard is structured into three complementary pages:
 - The Weekly Operations page displays only **Priority** students
 
 ### 30-Day Risk Classification Rules
-- **High Risk**: More than 5 absences in the last 30 days
-- **Medium Risk**: More than 3 absences in the last 30 days
-- **Normal**: 3 or fewer absences in the last 30 days
+- **High Risk**: 5 or more absences in the last 30 days
+- **Medium Risk**: 3 to 4 absences in the last 30 days
+- **Normal**: Fewer than 3 absences in the last 30 days
 
 ## Key Decisions Enabled
 - Identify students requiring immediate follow-up
