@@ -1,1 +1,355 @@
-
+﻿enrollment_id,absences_30d,risk
+E0001,1,Normal
+E0002,2,Normal
+E0003,4,Medium Risk
+E0004,3,Medium Risk
+E0005,0,Normal
+E0006,0,Normal
+E0007,3,Medium Risk
+E0008,1,Normal
+E0009,0,Normal
+E0010,1,Normal
+E0012,0,Normal
+E0013,0,Normal
+E0014,4,Medium Risk
+E0015,0,Normal
+E0016,0,Normal
+E0017,0,Normal
+E0018,0,Normal
+E0019,3,Medium Risk
+E0020,4,Medium Risk
+E0022,1,Normal
+E0023,0,Normal
+E0024,3,Medium Risk
+E0025,0,Normal
+E0026,0,Normal
+E0027,0,Normal
+E0028,3,Medium Risk
+E0029,0,Normal
+E0030,2,Normal
+E0031,1,Normal
+E0032,0,Normal
+E0033,4,Medium Risk
+E0034,3,Medium Risk
+E0035,0,Normal
+E0037,0,Normal
+E0038,0,Normal
+E0039,0,Normal
+E0040,0,Normal
+E0041,0,Normal
+E0042,0,Normal
+E0043,5,High Risk
+E0044,1,Normal
+E0045,3,Medium Risk
+E0046,0,Normal
+E0047,4,Medium Risk
+E0048,0,Normal
+E0049,2,Normal
+E0050,1,Normal
+E0052,1,Normal
+E0053,1,Normal
+E0054,0,Normal
+E0055,5,High Risk
+E0056,5,High Risk
+E0057,0,Normal
+E0058,4,Medium Risk
+E0059,0,Normal
+E0060,4,Medium Risk
+E0061,0,Normal
+E0062,0,Normal
+E0063,4,Medium Risk
+E0064,0,Normal
+E0065,0,Normal
+E0066,2,Normal
+E0067,0,Normal
+E0068,1,Normal
+E0070,1,Normal
+E0071,2,Normal
+E0072,0,Normal
+E0073,3,Medium Risk
+E0074,1,Normal
+E0075,0,Normal
+E0076,0,Normal
+E0077,1,Normal
+E0078,0,Normal
+E0079,1,Normal
+E0080,4,Medium Risk
+E0081,0,Normal
+E0082,1,Normal
+E0083,1,Normal
+E0084,3,Medium Risk
+E0085,4,Medium Risk
+E0086,3,Medium Risk
+E0087,0,Normal
+E0088,3,Medium Risk
+E0089,2,Normal
+E0090,0,Normal
+E0091,0,Normal
+E0092,0,Normal
+E0093,3,Medium Risk
+E0094,2,Normal
+E0095,0,Normal
+E0096,0,Normal
+E0097,0,Normal
+E0098,3,Medium Risk
+E0100,3,Medium Risk
+E0101,4,Medium Risk
+E0102,2,Normal
+E0103,1,Normal
+E0104,1,Normal
+E0105,0,Normal
+E0106,4,Medium Risk
+E0108,0,Normal
+E0109,1,Normal
+E0111,0,Normal
+E0112,0,Normal
+E0113,5,High Risk
+E0114,3,Medium Risk
+E0115,1,Normal
+E0116,0,Normal
+E0117,1,Normal
+E0118,5,High Risk
+E0119,5,High Risk
+E0120,1,Normal
+E0121,4,Medium Risk
+E0122,1,Normal
+E0123,0,Normal
+E0124,3,Medium Risk
+E0125,0,Normal
+E0126,1,Normal
+E0127,1,Normal
+E0128,0,Normal
+E0129,0,Normal
+E0131,0,Normal
+E0132,3,Medium Risk
+E0133,1,Normal
+E0134,4,Medium Risk
+E0135,0,Normal
+E0136,3,Medium Risk
+E0138,1,Normal
+E0139,1,Normal
+E0140,5,High Risk
+E0141,2,Normal
+E0142,2,Normal
+E0143,2,Normal
+E0144,0,Normal
+E0145,0,Normal
+E0146,0,Normal
+E0147,2,Normal
+E0148,0,Normal
+E0149,1,Normal
+E0150,2,Normal
+E0151,2,Normal
+E0152,4,Medium Risk
+E0153,2,Normal
+E0154,0,Normal
+E0155,1,Normal
+E0156,0,Normal
+E0157,0,Normal
+E0158,0,Normal
+E0159,2,Normal
+E0160,4,Medium Risk
+E0161,0,Normal
+E0162,3,Medium Risk
+E0163,5,High Risk
+E0164,0,Normal
+E0166,2,Normal
+E0167,0,Normal
+E0168,3,Medium Risk
+E0169,2,Normal
+E0170,4,Medium Risk
+E0171,1,Normal
+E0172,0,Normal
+E0173,1,Normal
+E0174,2,Normal
+E0175,4,Medium Risk
+E0176,0,Normal
+E0177,2,Normal
+E0178,0,Normal
+E0179,0,Normal
+E0181,0,Normal
+E0182,0,Normal
+E0183,3,Medium Risk
+E0184,1,Normal
+E0185,0,Normal
+E0186,3,Medium Risk
+E0187,0,Normal
+E0188,3,Medium Risk
+E0189,0,Normal
+E0190,0,Normal
+E0191,0,Normal
+E0192,0,Normal
+E0193,0,Normal
+E0194,0,Normal
+E0195,3,Medium Risk
+E0196,0,Normal
+E0197,2,Normal
+E0198,0,Normal
+E0199,0,Normal
+E0200,0,Normal
+E0201,0,Normal
+E0202,0,Normal
+E0203,0,Normal
+E0204,0,Normal
+E0205,0,Normal
+E0206,0,Normal
+E0207,0,Normal
+E0208,4,Medium Risk
+E0209,2,Normal
+E0210,0,Normal
+E0211,1,Normal
+E0212,1,Normal
+E0213,4,Medium Risk
+E0214,0,Normal
+E0215,3,Medium Risk
+E0216,3,Medium Risk
+E0217,3,Medium Risk
+E0218,1,Normal
+E0219,0,Normal
+E0220,0,Normal
+E0221,0,Normal
+E0222,0,Normal
+E0223,1,Normal
+E0224,1,Normal
+E0225,0,Normal
+E0226,3,Medium Risk
+E0227,3,Medium Risk
+E0228,0,Normal
+E0229,0,Normal
+E0230,1,Normal
+E0231,0,Normal
+E0232,0,Normal
+E0233,0,Normal
+E0234,0,Normal
+E0235,1,Normal
+E0236,0,Normal
+E0237,0,Normal
+E0238,4,Medium Risk
+E0239,0,Normal
+E0240,2,Normal
+E0241,0,Normal
+E0242,0,Normal
+E0243,1,Normal
+E0244,1,Normal
+E0245,0,Normal
+E0246,2,Normal
+E0247,0,Normal
+E0248,0,Normal
+E0249,3,Medium Risk
+E0250,1,Normal
+E0251,0,Normal
+E0252,3,Medium Risk
+E0253,5,High Risk
+E0254,1,Normal
+E0255,1,Normal
+E0256,1,Normal
+E0257,2,Normal
+E0258,2,Normal
+E0259,4,Medium Risk
+E0260,3,Medium Risk
+E0261,0,Normal
+E0262,4,Medium Risk
+E0263,0,Normal
+E0264,4,Medium Risk
+E0265,0,Normal
+E0266,0,Normal
+E0267,0,Normal
+E0268,3,Medium Risk
+E0269,1,Normal
+E0270,1,Normal
+E0271,0,Normal
+E0272,1,Normal
+E0273,0,Normal
+E0274,2,Normal
+E0275,1,Normal
+E0276,0,Normal
+E0277,0,Normal
+E0278,0,Normal
+E0279,4,Medium Risk
+E0280,0,Normal
+E0281,0,Normal
+E0282,1,Normal
+E0283,5,High Risk
+E0284,0,Normal
+E0285,1,Normal
+E0286,1,Normal
+E0288,1,Normal
+E0290,4,Medium Risk
+E0291,2,Normal
+E0292,2,Normal
+E0293,0,Normal
+E0294,0,Normal
+E0295,1,Normal
+E0296,0,Normal
+E0297,0,Normal
+E0298,0,Normal
+E0299,0,Normal
+E0300,0,Normal
+E0301,0,Normal
+E0302,0,Normal
+E0303,4,Medium Risk
+E0304,0,Normal
+E0305,2,Normal
+E0306,5,High Risk
+E0308,1,Normal
+E0309,4,Medium Risk
+E0310,1,Normal
+E0311,0,Normal
+E0312,0,Normal
+E0313,1,Normal
+E0314,3,Medium Risk
+E0315,0,Normal
+E0316,0,Normal
+E0317,0,Normal
+E0318,0,Normal
+E0319,3,Medium Risk
+E0320,1,Normal
+E0321,4,Medium Risk
+E0322,0,Normal
+E0323,1,Normal
+E0324,0,Normal
+E0325,3,Medium Risk
+E0326,1,Normal
+E0327,1,Normal
+E0328,0,Normal
+E0329,1,Normal
+E0330,0,Normal
+E0331,3,Medium Risk
+E0332,4,Medium Risk
+E0333,1,Normal
+E0334,4,Medium Risk
+E0335,2,Normal
+E0336,0,Normal
+E0337,1,Normal
+E0339,4,Medium Risk
+E0340,3,Medium Risk
+E0341,1,Normal
+E0342,0,Normal
+E0343,3,Medium Risk
+E0344,0,Normal
+E0345,0,Normal
+E0346,0,Normal
+E0347,0,Normal
+E0348,0,Normal
+E0349,2,Normal
+E0350,3,Medium Risk
+E0351,1,Normal
+E0352,1,Normal
+E0353,4,Medium Risk
+E0354,0,Normal
+E0355,3,Medium Risk
+E0356,0,Normal
+E0357,0,Normal
+E0358,1,Normal
+E0359,0,Normal
+E0361,4,Medium Risk
+E0362,1,Normal
+E0363,3,Medium Risk
+E0364,4,Medium Risk
+E0365,0,Normal
+E0367,1,Normal
+E0368,0,Normal
+E0369,5,High Risk
+E0370,4,Medium Risk
+E0371,0,Normal
+E0372,1,Normal

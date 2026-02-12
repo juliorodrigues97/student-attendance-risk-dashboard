@@ -1,1 +1,31 @@
-
+﻿class_id,branch,teacher,shift,level,branch_manager
+T01,Coral Gables,Noah Rhodes,Morning,Beginner,Maxwell Wall
+T02,Coral Gables,Allison Hill,Evening,Beginner,Maxwell Wall
+T03,Coral Gables,Cristian Santos,Morning,Intermediate,Maxwell Wall
+T04,Coral Gables,Daniel Wagner,Evening,Intermediate,Maxwell Wall
+T05,Coral Gables,Daniel Wagner,Morning,Advanced,Maxwell Wall
+T06,Coral Gables,Angie Henderson,Evening,Advanced,Maxwell Wall
+T07,Downtown,Noah Rhodes,Morning,Beginner,Mateo Decker
+T08,Downtown,Noah Rhodes,Evening,Beginner,Mateo Decker
+T09,Downtown,Abigail Shaffer,Morning,Intermediate,Mateo Decker
+T10,Downtown,Allison Hill,Evening,Intermediate,Mateo Decker
+T11,Downtown,Allison Hill,Morning,Advanced,Mateo Decker
+T12,Downtown,Noah Rhodes,Evening,Advanced,Mateo Decker
+T13,Kendall,Daniel Wagner,Morning,Beginner,Ayan Mays
+T14,Kendall,Daniel Wagner,Evening,Beginner,Ayan Mays
+T15,Kendall,Allison Hill,Morning,Intermediate,Ayan Mays
+T16,Kendall,Daniel Wagner,Evening,Intermediate,Ayan Mays
+T17,Kendall,Abigail Shaffer,Morning,Advanced,Ayan Mays
+T18,Kendall,Daniel Wagner,Evening,Advanced,Ayan Mays
+T19,Miami Beach,Gina Moore,Morning,Beginner,David Cordova
+T20,Miami Beach,Cristian Santos,Evening,Beginner,David Cordova
+T21,Miami Beach,Allison Hill,Morning,Intermediate,David Cordova
+T22,Miami Beach,Angie Henderson,Evening,Intermediate,David Cordova
+T23,Miami Beach,Abigail Shaffer,Morning,Advanced,David Cordova
+T24,Miami Beach,Connie Lawrence,Evening,Advanced,David Cordova
+T25,Doral,Cristian Santos,Morning,Beginner,Celeste Phillips
+T26,Doral,Angie Henderson,Evening,Beginner,Celeste Phillips
+T27,Doral,Daniel Wagner,Morning,Intermediate,Celeste Phillips
+T28,Doral,Connie Lawrence,Evening,Intermediate,Celeste Phillips
+T29,Doral,Noah Rhodes,Morning,Advanced,Celeste Phillips
+T30,Doral,Noah Rhodes,Evening,Advanced,Celeste Phillips
