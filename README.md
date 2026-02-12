@@ -1,18 +1,18 @@
-  # Attendance & Risk Monitoring Dashboard — Cultura Inglesa
+ # Attendance & Risk Monitoring Dashboard — Cultura Inglesa
   
   ---
 
-  ## Project Overview
+ ## Project Overview
 This project supports student retention through preventive and prescriptive analytics. It monitors attendance patterns, identifies students at risk of dropout, and triggers coordinated actions between branch managers, teachers, and the central office team. The dashboard is designed to ensure timely intervention, standardized follow-up, and clear prioritization of at-risk students.
 
 ---
 
-  ## Business Problem
+## Business Problem
 Student absenteeism is one of the main early indicators of disengagement and potential enrollment cancellation. Prior to this project, the organization lacked a structured and standardized process to identify at-risk students, track weekly absences, and document follow-up actions across branches. This limited the ability of managers and the coordination team to act quickly and consistently.
 
 ---
 
-  ## Solution Approach
+ ## Solution Approach
 The solution was designed as an operational workflow supported by analytics, combining weekly monitoring and short-term risk assessment.
 
 The Power BI dashboard is structured into three complementary pages:
@@ -39,7 +39,7 @@ The Power BI dashboard is structured into three complementary pages:
 
 ---
 
-  ## Business Rules
+## Business Rules
   ### Weekly Attendance Rules
 - **Priority**: Student missed 100% of weekly classes (2 out of 2)
 - **Attention**: Student missed 1 class in the week
@@ -53,7 +53,7 @@ The Power BI dashboard is structured into three complementary pages:
 
 ---
 
-  ## Key Decisions Enabled
+## Key Decisions Enabled
 - Identify students requiring immediate follow-up
 - Prioritize coordination efforts based on risk severity
 - Ensure no at-risk student remains without registered intervention
@@ -61,21 +61,21 @@ The Power BI dashboard is structured into three complementary pages:
 
   ---
   
-  ## Data Source & Preparation
+## Data Source & Preparation
 - Data was simulated using Python, based on a real operational context from a previous internship experience
 - The dataset was designed to reflect realistic attendance patterns, risk distribution, and intervention scenarios
 - Data cleansing, transformation, and modeling were applied before loading into Power BI
 
 ---
 
-  ## Scope & Limitations
+## Scope & Limitations
 - Focused on preventive and prescriptive analytics
 - Does not evaluate post-intervention effectiveness
 - Outcome analysis identified as a potential future phase
 
   ---
   
-  ## Tools & Technologies
+## Tools & Technologies
 - Power BI
 - DAX
 - Power Query
@@ -84,7 +84,7 @@ The Power BI dashboard is structured into three complementary pages:
 
 ---
 
-  ## 📂 Repository Structure
+## 📂 Repository Structure
 
 student-attendance-risk-dashboard/
 
