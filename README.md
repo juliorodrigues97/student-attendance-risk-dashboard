@@ -70,12 +70,12 @@ The Power BI dashboard is structured into three complementary pages:
 
 student-attendance-risk-dashboard/
 
-├── dashboard/ # Power BI dashboard files (.pbix)
+├── `dashboard/` # Power BI dashboard files (.pbix)
 
-├── scripts/ # Python scripts for data simulation and cleaning (.ipynb)
+├── `scripts/` # Python scripts for data simulation and cleaning (.ipynb)
 
-├── data/ # Datasets used in the project (simulated and cleaned)
+├── `data/` # Datasets used in the project (simulated and cleaned)
 
-├── README.md # Project documentation 
+├── `README.md` # Project documentation 
 
 ---
