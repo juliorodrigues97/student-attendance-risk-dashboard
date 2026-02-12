@@ -1,0 +1,373 @@
+﻿Student ID,Student Full Name,Branch,Course Level,Enrollment Date,Student Status,Class Code
+1,Gabrielle Davis,Coral Gables,Beginner,2025-12-25,Active,T01
+2,Ryan Munoz,Coral Gables,Beginner,2025-08-20,Active,T01
+3,Monica Herrera,Coral Gables,Beginner,2026-01-21,Active,T01
+4,Jamie Arnold,Coral Gables,Beginner,2025-05-14,Active,T01
+5,Lisa Hensley,Coral Gables,Beginner,2025-08-03,Active,T01
+6,Michele Williams,Coral Gables,Beginner,2025-09-15,Active,T01
+7,Dylan Miller,Coral Gables,Beginner,2025-04-02,Active,T01
+8,Brian Ramirez,Coral Gables,Beginner,2025-08-11,Active,T01
+9,Holly Wood,Coral Gables,Beginner,2025-02-17,Active,T01
+10,Derek Zuniga,Coral Gables,Beginner,2025-03-11,Active,T01
+11,Lisa Jackson,Coral Gables,Beginner,2025-09-17,Inactive,T01
+12,Carla Gray,Coral Gables,Beginner,2025-10-16,Active,T01
+13,Margaret Hawkins DDS,Coral Gables,Beginner,2025-08-02,Active,T01
+14,Patty Perez,Coral Gables,Beginner,2025-08-10,Active,T02
+15,Ethan Adams,Coral Gables,Beginner,2025-08-15,Active,T02
+16,Tommy Walter,Coral Gables,Beginner,2025-09-29,Active,T02
+17,Matthew Foster,Coral Gables,Beginner,2025-02-28,Active,T02
+18,Judy Baker,Coral Gables,Beginner,2025-04-07,Active,T02
+19,Justin Baker,Coral Gables,Beginner,2025-05-15,Active,T02
+20,Stephanie Ross,Coral Gables,Beginner,2025-11-21,Active,T02
+21,Zachary Hicks,Coral Gables,Beginner,2025-09-27,Inactive,T02
+22,Anthony Rodriguez,Coral Gables,Beginner,2025-03-22,Active,T02
+23,Rebecca Henderson,Coral Gables,Beginner,2025-10-23,Active,T02
+24,James Ferrell,Coral Gables,Beginner,2026-01-15,Active,T02
+25,Tricia Valencia,Coral Gables,Beginner,2026-01-27,Active,T02
+26,Nathan Maldonado,Coral Gables,Beginner,2025-07-22,Active,T02
+27,Debra Davidson,Coral Gables,Beginner,2025-10-27,Active,T02
+28,Jeffrey Chavez,Coral Gables,Beginner,2025-04-28,Active,T02
+29,Sherri Baker,Coral Gables,Intermediate,2025-10-27,Active,T03
+30,Cassandra Gaines,Coral Gables,Intermediate,2025-07-25,Active,T03
+31,Elizabeth Fowler,Coral Gables,Intermediate,2025-03-20,Active,T03
+32,Brittany Farmer,Coral Gables,Intermediate,2025-09-30,Active,T03
+33,Paula Moreno,Coral Gables,Intermediate,2025-05-01,Active,T03
+34,Fred Smith,Coral Gables,Intermediate,2025-04-19,Active,T03
+35,Sherry Decker,Coral Gables,Intermediate,2025-04-20,Active,T03
+36,Anthony Humphrey,Coral Gables,Intermediate,2025-10-23,Inactive,T03
+37,Angelica Tucker,Coral Gables,Intermediate,2025-12-04,Active,T03
+38,Philip Cannon,Coral Gables,Intermediate,2025-12-28,Active,T03
+39,John Pierce,Coral Gables,Intermediate,2025-12-18,Active,T03
+40,Shane Henderson,Coral Gables,Intermediate,2025-11-23,Active,T03
+41,Joshua Blair,Coral Gables,Intermediate,2025-04-13,Active,T04
+42,Eric Carney,Coral Gables,Intermediate,2025-08-01,Active,T04
+43,Jessica Holmes,Coral Gables,Intermediate,2025-06-18,Active,T04
+44,Danny Morgan,Coral Gables,Intermediate,2025-05-05,Active,T04
+45,Crystal Robinson,Coral Gables,Intermediate,2026-02-07,Active,T04
+46,Mark Perez,Coral Gables,Intermediate,2025-12-16,Active,T04
+47,Shannon Jones,Coral Gables,Intermediate,2025-05-14,Active,T04
+48,Michael Lewis,Coral Gables,Intermediate,2025-03-21,Active,T04
+49,Timothy Duncan,Coral Gables,Intermediate,2025-09-15,Active,T04
+50,Richard Aguirre,Coral Gables,Intermediate,2025-06-25,Active,T04
+51,Brent Jordan,Coral Gables,Intermediate,2025-10-01,Inactive,T04
+52,John Daniel,Coral Gables,Intermediate,2025-11-13,Active,T04
+53,Victoria Garcia,Coral Gables,Intermediate,2025-12-20,Active,T04
+54,Gerald Hensley,Coral Gables,Advanced,2025-03-22,Active,T05
+55,Connor West,Coral Gables,Advanced,2025-11-03,Active,T05
+56,Donald Wright,Coral Gables,Advanced,2025-11-22,Active,T05
+57,Jessica Callahan,Coral Gables,Advanced,2025-05-17,Active,T05
+58,Amber Kidd,Coral Gables,Advanced,2025-04-12,Active,T05
+59,Tracy House,Coral Gables,Advanced,2026-02-03,Active,T05
+60,Carol Tucker,Coral Gables,Advanced,2025-08-11,Active,T05
+61,James Brown,Coral Gables,Advanced,2025-09-08,Active,T05
+62,William Baker,Coral Gables,Advanced,2025-10-12,Active,T05
+63,Jordan Henderson,Coral Gables,Advanced,2026-01-03,Active,T05
+64,Whitney Peters,Coral Gables,Advanced,2025-06-09,Active,T05
+65,Brittney Phillips,Coral Gables,Advanced,2025-05-16,Active,T05
+66,Lauren Daniels,Coral Gables,Advanced,2025-03-12,Active,T06
+67,Amy Silva,Coral Gables,Advanced,2025-05-07,Active,T06
+68,Sarah Moore,Coral Gables,Advanced,2025-05-18,Active,T06
+69,Angela Lopez,Coral Gables,Advanced,2025-07-11,Inactive,T06
+70,Megan Young,Coral Gables,Advanced,2025-05-12,Active,T06
+71,Steve Sanchez,Coral Gables,Advanced,2025-02-24,Active,T06
+72,Lisa Barnes,Coral Gables,Advanced,2025-09-06,Active,T06
+73,Kelly Donovan,Coral Gables,Advanced,2025-03-06,Active,T06
+74,Mike Allen,Coral Gables,Advanced,2025-07-03,Active,T06
+75,Michael Evans,Coral Gables,Advanced,2025-06-26,Active,T06
+76,Paul Jones,Coral Gables,Advanced,2025-10-20,Active,T06
+77,Zachary Ferrell,Downtown,Beginner,2025-04-17,Active,T07
+78,Daniel Baker,Downtown,Beginner,2025-04-17,Active,T07
+79,Shirley Suarez,Downtown,Beginner,2026-01-07,Active,T07
+80,Christopher Bass,Downtown,Beginner,2026-01-13,Active,T07
+81,Lisa Archer,Downtown,Beginner,2026-01-27,Active,T07
+82,Aimee Montoya,Downtown,Beginner,2026-01-07,Active,T07
+83,Matthew Mcmillan,Downtown,Beginner,2025-09-23,Active,T07
+84,Brian Rodriguez,Downtown,Beginner,2025-10-26,Active,T07
+85,Denise Jacobs,Downtown,Beginner,2025-04-26,Active,T07
+86,Christina Walters,Downtown,Beginner,2025-10-11,Active,T07
+87,John Whitehead,Downtown,Beginner,2025-11-07,Active,T08
+88,Anna Henderson,Downtown,Beginner,2025-03-12,Active,T08
+89,Aaron Wise,Downtown,Beginner,2025-07-11,Active,T08
+90,Deborah Figueroa,Downtown,Beginner,2026-01-16,Active,T08
+91,Jessica Smith,Downtown,Beginner,2025-03-19,Active,T08
+92,Stephen Mckee,Downtown,Beginner,2025-07-21,Active,T08
+93,Sandra Aguilar,Downtown,Beginner,2025-12-19,Active,T08
+94,Cameron Parker,Downtown,Beginner,2025-11-07,Active,T08
+95,Rebecca Valencia,Downtown,Beginner,2025-12-03,Active,T08
+96,Christine Wright,Downtown,Beginner,2025-09-23,Active,T08
+97,Richard Henson,Downtown,Beginner,2026-01-05,Active,T08
+98,Marc Moore,Downtown,Beginner,2025-05-07,Active,T08
+99,Sharon Cherry,Downtown,Beginner,2025-03-16,Inactive,T08
+100,Sierra Johnson,Downtown,Intermediate,2025-12-27,Active,T09
+101,Evelyn Galvan,Downtown,Intermediate,2025-10-14,Active,T09
+102,Sharon Cochran,Downtown,Intermediate,2025-06-09,Active,T09
+103,Richard Rodriguez,Downtown,Intermediate,2025-07-22,Active,T09
+104,Shannon Walker,Downtown,Intermediate,2025-11-20,Active,T09
+105,Julia Torres,Downtown,Intermediate,2025-07-28,Active,T09
+106,Crystal Johnson,Downtown,Intermediate,2025-06-25,Active,T09
+107,Garrett Lin,Downtown,Intermediate,2025-02-21,Inactive,T09
+108,Diana May,Downtown,Intermediate,2025-05-04,Active,T09
+109,William Herrera,Downtown,Intermediate,2025-06-08,Active,T09
+110,Ashley Waller,Downtown,Intermediate,2025-10-24,Inactive,T10
+111,Victor Baker,Downtown,Intermediate,2025-04-22,Active,T10
+112,Jeffrey Chandler,Downtown,Intermediate,2026-01-12,Active,T10
+113,Larry Dixon,Downtown,Intermediate,2026-01-14,Active,T10
+114,Kenneth Scott,Downtown,Intermediate,2025-06-13,Active,T10
+115,April Frost,Downtown,Intermediate,2025-05-17,Active,T10
+116,Michelle Harmon,Downtown,Intermediate,2025-05-28,Active,T10
+117,Helen Jones,Downtown,Intermediate,2025-11-09,Active,T10
+118,Erin Edwards,Downtown,Intermediate,2026-01-09,Active,T10
+119,Michelle Evans,Downtown,Intermediate,2025-10-15,Active,T10
+120,Jason Powell,Downtown,Intermediate,2025-04-27,Active,T10
+121,Cameron Fisher,Downtown,Intermediate,2025-04-14,Active,T10
+122,Megan Orr,Downtown,Advanced,2025-07-13,Active,T11
+123,Elizabeth Kelley,Downtown,Advanced,2025-04-29,Active,T11
+124,Dustin Jordan,Downtown,Advanced,2025-10-02,Active,T11
+125,Mary Marshall,Downtown,Advanced,2025-09-05,Active,T11
+126,Daniel Kennedy,Downtown,Advanced,2025-07-25,Active,T11
+127,Rebecca Jackson,Downtown,Advanced,2025-03-19,Active,T11
+128,Jose Schultz,Downtown,Advanced,2025-09-04,Active,T11
+129,Robert Potter,Downtown,Advanced,2026-01-06,Active,T11
+130,Courtney Gonzalez,Downtown,Advanced,2025-03-31,Inactive,T11
+131,David Alvarez,Downtown,Advanced,2025-12-23,Active,T11
+132,Angel Perry,Downtown,Advanced,2025-05-29,Active,T12
+133,Cheyenne Horton,Downtown,Advanced,2025-08-18,Active,T12
+134,David Douglas Jr.,Downtown,Advanced,2025-10-10,Active,T12
+135,Patricia Rodriguez,Downtown,Advanced,2025-11-24,Active,T12
+136,Christopher Rubio,Downtown,Advanced,2025-05-10,Active,T12
+137,Amber Wright,Downtown,Advanced,2025-04-05,Inactive,T12
+138,Joyce Solis,Downtown,Advanced,2025-03-15,Active,T12
+139,Victoria Larson,Downtown,Advanced,2025-03-08,Active,T12
+140,Stephanie Salazar,Downtown,Advanced,2025-09-12,Active,T12
+141,Kathy Rivas,Downtown,Advanced,2025-12-21,Active,T12
+142,Stephanie Manning,Downtown,Advanced,2025-12-06,Active,T12
+143,David Wright,Kendall,Beginner,2025-05-05,Active,T13
+144,Pamela Boyd,Kendall,Beginner,2025-09-21,Active,T13
+145,Denise Jones,Kendall,Beginner,2025-08-21,Active,T13
+146,Devon Flores,Kendall,Beginner,2025-03-25,Active,T13
+147,Brenda Hall,Kendall,Beginner,2025-05-30,Active,T13
+148,Michelle Brown,Kendall,Beginner,2026-01-17,Active,T13
+149,Joshua Perry,Kendall,Beginner,2025-07-11,Active,T13
+150,Jason Stein,Kendall,Beginner,2026-01-21,Active,T13
+151,Melissa Gates,Kendall,Beginner,2025-12-08,Active,T13
+152,Jamie Smith,Kendall,Beginner,2025-10-01,Active,T13
+153,Paul Castaneda,Kendall,Beginner,2025-05-06,Active,T14
+154,Jennifer Adkins,Kendall,Beginner,2025-05-01,Active,T14
+155,Lindsey Walker,Kendall,Beginner,2026-01-05,Active,T14
+156,Jeffrey Johnson,Kendall,Beginner,2025-02-24,Active,T14
+157,Michael Powell,Kendall,Beginner,2025-05-09,Active,T14
+158,John Anderson,Kendall,Beginner,2025-08-07,Active,T14
+159,Alyssa Long,Kendall,Beginner,2025-11-29,Active,T14
+160,Alyssa Day,Kendall,Beginner,2026-01-22,Active,T14
+161,Joel Williams,Kendall,Beginner,2026-01-23,Active,T14
+162,Daniel Murphy,Kendall,Beginner,2025-10-28,Active,T14
+163,Jamie Walton,Kendall,Beginner,2025-03-08,Active,T14
+164,Darlene Miller,Kendall,Beginner,2025-05-02,Active,T14
+165,Joshua Cooke,Kendall,Beginner,2025-07-19,Inactive,T14
+166,Matthew Harrington,Kendall,Intermediate,2025-11-25,Active,T15
+167,Nicole Herring,Kendall,Intermediate,2025-10-14,Active,T15
+168,Alex Hernandez,Kendall,Intermediate,2025-11-14,Active,T15
+169,Michael Elliott,Kendall,Intermediate,2026-01-31,Active,T15
+170,Michael Wang,Kendall,Intermediate,2025-08-26,Active,T15
+171,Lawrence Adkins,Kendall,Intermediate,2025-07-17,Active,T15
+172,Robert Oconnell,Kendall,Intermediate,2025-10-08,Active,T15
+173,Alexander Collins,Kendall,Intermediate,2025-02-18,Active,T15
+174,Tina Sanders,Kendall,Intermediate,2026-01-24,Active,T15
+175,Angela Vaughn,Kendall,Intermediate,2025-10-22,Active,T15
+176,Ashley Barton,Kendall,Intermediate,2025-06-22,Active,T15
+177,Lindsay Martinez,Kendall,Intermediate,2025-10-19,Active,T15
+178,Dr. Hannah Patterson,Kendall,Intermediate,2025-03-12,Active,T15
+179,Jonathan Peterson,Kendall,Intermediate,2025-08-28,Active,T15
+180,Samantha Garcia,Kendall,Intermediate,2026-01-08,Inactive,T15
+181,Madison Poole,Kendall,Intermediate,2025-08-17,Active,T16
+182,Jessica Gross,Kendall,Intermediate,2025-07-23,Active,T16
+183,Debra Morton,Kendall,Intermediate,2025-05-14,Active,T16
+184,Karen Graham,Kendall,Intermediate,2026-01-29,Active,T16
+185,Debra Christian,Kendall,Intermediate,2025-10-02,Active,T16
+186,Angelica Keith,Kendall,Intermediate,2025-09-30,Active,T16
+187,John Bishop,Kendall,Intermediate,2025-04-13,Active,T16
+188,Allen Rosales,Kendall,Intermediate,2025-09-05,Active,T16
+189,Daniel Salinas,Kendall,Intermediate,2025-05-27,Active,T16
+190,Spencer Haynes,Kendall,Intermediate,2025-04-23,Active,T16
+191,Adam Vaughan,Kendall,Intermediate,2026-01-21,Active,T16
+192,Nathan Freeman,Kendall,Intermediate,2026-02-12,Active,T16
+193,Melissa Brewer,Kendall,Advanced,2025-02-26,Active,T17
+194,Ricky Davis II,Kendall,Advanced,2025-03-06,Active,T17
+195,Elizabeth Perkins,Kendall,Advanced,2025-07-07,Active,T17
+196,Joseph Coleman,Kendall,Advanced,2025-03-09,Active,T17
+197,Erin Warner,Kendall,Advanced,2025-03-30,Active,T17
+198,David Martinez,Kendall,Advanced,2025-12-11,Active,T17
+199,Bryan Herrera,Kendall,Advanced,2025-09-12,Active,T17
+200,Cathy Robinson,Kendall,Advanced,2025-03-08,Active,T17
+201,Dr. William Warren,Kendall,Advanced,2025-07-21,Active,T17
+202,Brian Lee,Kendall,Advanced,2025-05-05,Active,T17
+203,Christopher Smith,Kendall,Advanced,2025-07-12,Active,T17
+204,Denise Mccann,Kendall,Advanced,2025-08-02,Active,T17
+205,Melissa Martinez,Kendall,Advanced,2025-11-15,Active,T17
+206,Katherine Salas,Kendall,Advanced,2025-09-11,Active,T17
+207,Julie Alexander,Kendall,Advanced,2025-09-10,Active,T18
+208,Anthony Everett,Kendall,Advanced,2025-07-07,Active,T18
+209,Rodney Morales,Kendall,Advanced,2025-04-08,Active,T18
+210,Mark Brown,Kendall,Advanced,2025-06-19,Active,T18
+211,Justin Torres,Kendall,Advanced,2025-03-04,Active,T18
+212,Bailey Duran DDS,Kendall,Advanced,2025-06-15,Active,T18
+213,Courtney Mills,Kendall,Advanced,2025-11-18,Active,T18
+214,Jeremy Dalton,Kendall,Advanced,2025-09-20,Active,T18
+215,Elizabeth Oliver DDS,Kendall,Advanced,2025-03-25,Active,T18
+216,Theresa Clark,Kendall,Advanced,2025-12-27,Active,T18
+217,Matthew Moore,Miami Beach,Beginner,2025-03-05,Active,T19
+218,Benjamin Smith,Miami Beach,Beginner,2025-11-03,Active,T19
+219,Kirk Carter,Miami Beach,Beginner,2026-01-20,Active,T19
+220,Michael Warner,Miami Beach,Beginner,2025-06-14,Active,T19
+221,Michael Bradshaw,Miami Beach,Beginner,2026-01-06,Active,T19
+222,Lori Guerrero,Miami Beach,Beginner,2025-03-27,Active,T19
+223,Jessica Stephens,Miami Beach,Beginner,2025-02-21,Active,T19
+224,Susan Serrano,Miami Beach,Beginner,2025-07-23,Active,T19
+225,Christopher Parker,Miami Beach,Beginner,2025-03-14,Active,T19
+226,Laura Roberts,Miami Beach,Beginner,2025-12-20,Active,T19
+227,Michael Lyons,Miami Beach,Beginner,2025-10-23,Active,T19
+228,Kathryn Snyder,Miami Beach,Beginner,2025-05-23,Active,T20
+229,Andrew Reynolds,Miami Beach,Beginner,2025-05-03,Active,T20
+230,David Davis,Miami Beach,Beginner,2025-12-12,Active,T20
+231,Sara Johnston,Miami Beach,Beginner,2025-06-20,Active,T20
+232,Yvonne Chambers,Miami Beach,Beginner,2025-05-02,Active,T20
+233,Andrew Avila,Miami Beach,Beginner,2025-07-01,Active,T20
+234,Matthew Moon,Miami Beach,Beginner,2025-05-30,Active,T20
+235,Kevin Walters,Miami Beach,Beginner,2025-05-08,Active,T20
+236,Brandon Bailey MD,Miami Beach,Beginner,2025-11-23,Active,T20
+237,Shannon Rivera,Miami Beach,Beginner,2025-06-14,Active,T20
+238,Donna Landry,Miami Beach,Beginner,2025-10-09,Active,T20
+239,Krista Gibson,Miami Beach,Beginner,2025-09-24,Active,T20
+240,Frank Cordova,Miami Beach,Beginner,2025-05-22,Active,T20
+241,Jose Travis,Miami Beach,Beginner,2025-10-13,Active,T20
+242,Kimberly Gutierrez,Miami Beach,Beginner,2026-01-04,Active,T20
+243,Isaiah Avila,Miami Beach,Intermediate,2025-09-26,Active,T21
+244,Olivia Harris,Miami Beach,Intermediate,2025-05-12,Active,T21
+245,Tanya Kim,Miami Beach,Intermediate,2025-11-27,Active,T21
+246,Barbara Dudley,Miami Beach,Intermediate,2025-02-22,Active,T21
+247,Cynthia Moore,Miami Beach,Intermediate,2025-10-26,Active,T21
+248,Kristen Davis,Miami Beach,Intermediate,2025-07-19,Active,T21
+249,Susan Murray MD,Miami Beach,Intermediate,2025-06-19,Active,T21
+250,Kathleen Moran,Miami Beach,Intermediate,2025-10-30,Active,T21
+251,Denise Davenport,Miami Beach,Intermediate,2025-07-28,Active,T21
+252,Mrs. Kristen Reyes,Miami Beach,Intermediate,2025-04-19,Active,T21
+253,Katie Suarez,Miami Beach,Intermediate,2026-02-02,Active,T21
+254,Desiree Tyler,Miami Beach,Intermediate,2025-08-02,Active,T22
+255,Timothy Romero,Miami Beach,Intermediate,2025-08-16,Active,T22
+256,Diane Evans,Miami Beach,Intermediate,2025-07-28,Active,T22
+257,Yvonne Burns,Miami Beach,Intermediate,2025-07-13,Active,T22
+258,Joshua Reed,Miami Beach,Intermediate,2025-05-09,Active,T22
+259,Kimberly Gibson,Miami Beach,Intermediate,2025-10-23,Active,T22
+260,Colin Terry,Miami Beach,Intermediate,2025-09-26,Active,T22
+261,Cynthia Rowe,Miami Beach,Intermediate,2026-01-29,Active,T22
+262,Patrick Thornton,Miami Beach,Intermediate,2025-03-07,Active,T22
+263,Jasmin Alvarado,Miami Beach,Intermediate,2025-07-20,Active,T22
+264,Veronica Simpson,Miami Beach,Intermediate,2025-06-18,Active,T22
+265,Jonathan Lawrence,Miami Beach,Intermediate,2025-03-31,Active,T22
+266,Shelly Alexander,Miami Beach,Intermediate,2025-07-26,Active,T22
+267,Joyce Bowen,Miami Beach,Intermediate,2025-03-10,Active,T22
+268,Matthew Moore,Miami Beach,Advanced,2025-07-08,Active,T23
+269,Wayne Morgan,Miami Beach,Advanced,2025-06-21,Active,T23
+270,Marie Christian,Miami Beach,Advanced,2025-10-02,Active,T23
+271,Shannon James,Miami Beach,Advanced,2025-10-27,Active,T23
+272,Nathan Malone,Miami Beach,Advanced,2025-08-24,Active,T23
+273,Amanda Jones,Miami Beach,Advanced,2025-08-02,Active,T23
+274,Tammie Bright,Miami Beach,Advanced,2025-07-12,Active,T23
+275,Jessica Garcia,Miami Beach,Advanced,2026-01-02,Active,T23
+276,Shelia Wallace,Miami Beach,Advanced,2025-05-12,Active,T23
+277,Stephanie Williams,Miami Beach,Advanced,2025-08-17,Active,T23
+278,Elaine Brooks,Miami Beach,Advanced,2026-01-08,Active,T23
+279,Joseph Knight,Miami Beach,Advanced,2025-03-16,Active,T23
+280,Carolyn Miller,Miami Beach,Advanced,2026-01-28,Active,T23
+281,Lisa Allen,Miami Beach,Advanced,2025-11-02,Active,T23
+282,Briana Murray,Miami Beach,Advanced,2025-03-31,Active,T23
+283,David Smith,Miami Beach,Advanced,2025-06-15,Active,T24
+284,Stephanie Byrd,Miami Beach,Advanced,2025-04-30,Active,T24
+285,Jeremy Reed,Miami Beach,Advanced,2025-06-19,Active,T24
+286,Margaret Coleman,Miami Beach,Advanced,2025-08-08,Active,T24
+287,Ryan Gonzalez,Miami Beach,Advanced,2025-04-08,Inactive,T24
+288,John Young,Miami Beach,Advanced,2025-12-16,Active,T24
+289,Laura Haney,Miami Beach,Advanced,2025-11-21,Inactive,T24
+290,William Barrett,Miami Beach,Advanced,2025-12-19,Active,T24
+291,Keith Jennings,Miami Beach,Advanced,2025-09-06,Active,T24
+292,Amber Obrien,Miami Beach,Advanced,2025-08-04,Active,T24
+293,Tanner Mitchell DDS,Miami Beach,Advanced,2025-11-03,Active,T24
+294,Heather Fields,Doral,Beginner,2025-03-28,Active,T25
+295,Megan Le,Doral,Beginner,2025-02-21,Active,T25
+296,Sara Fuller,Doral,Beginner,2025-02-27,Active,T25
+297,Maria Parker,Doral,Beginner,2025-12-13,Active,T25
+298,Kevin Oconnor,Doral,Beginner,2025-04-29,Active,T25
+299,Edward Burgess,Doral,Beginner,2025-08-19,Active,T25
+300,Carlos Ryan,Doral,Beginner,2025-03-11,Active,T25
+301,Kiara Mcintyre,Doral,Beginner,2025-05-29,Active,T25
+302,Dawn Summers,Doral,Beginner,2026-02-06,Active,T25
+303,Dr. Paul Morgan,Doral,Beginner,2025-06-07,Active,T25
+304,Victor Taylor,Doral,Beginner,2025-08-11,Active,T25
+305,Shannon Ramsey,Doral,Beginner,2025-06-22,Active,T25
+306,Tracy Ballard,Doral,Beginner,2025-07-05,Active,T25
+307,Richard Smith,Doral,Beginner,2025-05-21,Inactive,T25
+308,Jordan Chambers,Doral,Beginner,2025-09-27,Active,T25
+309,Lauren Carson,Doral,Beginner,2025-06-10,Active,T26
+310,Ashley Hall,Doral,Beginner,2025-04-15,Active,T26
+311,Stephen Hoffman,Doral,Beginner,2025-10-10,Active,T26
+312,Connie Brown,Doral,Beginner,2025-12-30,Active,T26
+313,Susan Turner,Doral,Beginner,2025-06-27,Active,T26
+314,Charles Shah,Doral,Beginner,2025-06-20,Active,T26
+315,Johnathan Davis,Doral,Beginner,2025-03-07,Active,T26
+316,Brandy Chavez,Doral,Beginner,2026-01-29,Active,T26
+317,Natalie Bautista,Doral,Beginner,2025-08-30,Active,T26
+318,Patrick Moore,Doral,Beginner,2025-10-27,Active,T26
+319,Brett Burns,Doral,Beginner,2025-10-03,Active,T26
+320,Trevor Johnson,Doral,Beginner,2025-04-13,Active,T26
+321,Jeremy Sampson,Doral,Beginner,2025-09-24,Active,T26
+322,Ariana Jennings,Doral,Beginner,2025-05-24,Active,T26
+323,Vanessa Howard,Doral,Intermediate,2025-10-12,Active,T27
+324,Colton Martinez,Doral,Intermediate,2025-06-07,Active,T27
+325,Jordan Bates,Doral,Intermediate,2025-10-12,Active,T27
+326,Linda Smith,Doral,Intermediate,2025-03-19,Active,T27
+327,Dana Martinez,Doral,Intermediate,2025-06-28,Active,T27
+328,Andrea Hubbard,Doral,Intermediate,2025-12-27,Active,T27
+329,Daniel Kane,Doral,Intermediate,2025-07-20,Active,T27
+330,Charles Lester,Doral,Intermediate,2025-09-09,Active,T27
+331,Scott Thomas,Doral,Intermediate,2025-08-08,Active,T27
+332,David Thompson,Doral,Intermediate,2025-05-17,Active,T27
+333,Allison Smith,Doral,Intermediate,2025-05-07,Active,T28
+334,Cynthia Morris,Doral,Intermediate,2025-02-18,Active,T28
+335,Anthony Harmon,Doral,Intermediate,2025-09-09,Active,T28
+336,Nichole Alvarez,Doral,Intermediate,2025-12-13,Active,T28
+337,Kayla Rodriguez,Doral,Intermediate,2025-09-04,Active,T28
+338,Theresa Williams,Doral,Intermediate,2025-05-14,Inactive,T28
+339,Sharon Boyd,Doral,Intermediate,2025-02-24,Active,T28
+340,Victor Brown,Doral,Intermediate,2025-10-25,Active,T28
+341,James Parks,Doral,Intermediate,2025-09-24,Active,T28
+342,Theodore Jones Jr.,Doral,Intermediate,2025-05-20,Active,T28
+343,Ana Hill,Doral,Intermediate,2025-12-23,Active,T28
+344,Kimberly Nguyen,Doral,Intermediate,2025-09-14,Active,T28
+345,Kerry Chavez DDS,Doral,Intermediate,2025-11-13,Active,T28
+346,Michael Farrell,Doral,Intermediate,2025-02-15,Active,T28
+347,Patricia Le,Doral,Intermediate,2025-09-25,Active,T28
+348,Jesse Perez,Doral,Advanced,2025-05-05,Active,T29
+349,Jesse Perry,Doral,Advanced,2025-12-10,Active,T29
+350,Jeffery Ortega,Doral,Advanced,2025-06-06,Active,T29
+351,Christian Leblanc,Doral,Advanced,2026-02-06,Active,T29
+352,Ronald Davis,Doral,Advanced,2025-06-17,Active,T29
+353,Parker Cain,Doral,Advanced,2025-08-22,Active,T29
+354,Laurie Hoffman,Doral,Advanced,2026-01-17,Active,T29
+355,Bryan Gomez,Doral,Advanced,2025-06-13,Active,T29
+356,Nicole Parrish,Doral,Advanced,2026-01-10,Active,T29
+357,Tracy Burke,Doral,Advanced,2026-01-06,Active,T29
+358,Kenneth Lewis,Doral,Advanced,2026-01-16,Active,T30
+359,Courtney Rodriguez,Doral,Advanced,2025-04-30,Active,T30
+360,Holly Farmer,Doral,Advanced,2025-12-31,Inactive,T30
+361,Renee Bruce,Doral,Advanced,2025-12-14,Active,T30
+362,Sabrina Austin,Doral,Advanced,2025-07-14,Active,T30
+363,Allison Hickman,Doral,Advanced,2025-04-02,Active,T30
+364,Debra White,Doral,Advanced,2025-05-21,Active,T30
+365,Ellen Morgan,Doral,Advanced,2025-07-01,Active,T30
+366,Sergio Knight,Doral,Advanced,2025-04-17,Inactive,T30
+367,Charles Schultz,Doral,Advanced,2025-09-09,Active,T30
+368,Paul Lewis,Doral,Advanced,2026-01-13,Active,T30
+369,Glen Wood,Doral,Advanced,2025-12-24,Active,T30
+370,Paula Bradley,Doral,Advanced,2025-10-29,Active,T30
+371,Anthony Moore,Doral,Advanced,2025-09-30,Active,T30
+372,Megan Nelson,Doral,Advanced,2025-11-24,Active,T30
