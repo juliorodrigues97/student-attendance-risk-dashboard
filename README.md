@@ -17,20 +17,20 @@ The solution was designed as an operational workflow supported by analytics, com
 
 The Power BI dashboard is structured into three complementary pages:
 
- ### 🏢 Page 1 — Operations Overview
+ ### Page 1 — Operations Overview
 - Target audience: Central Office (analysts, coordinators, general manager)
 - Purpose: Monitor student risk over the last 30 days
 - Analysis by branch, level, and shift
 - Used weekly for macro-level monitoring and prioritization
 
- ### 📅 Page 2 — Weekly Operations
+ ### Page 2 — Weekly Operations
 - Target audience: Branch Managers
 - Purpose: Identify students with critical weekly absenteeism
 - Used every Friday as the main operational trigger
 - Displays only students who missed all classes in the week (2/2)
 - Includes an action button to register follow-up via an Excel form
 
- ### ⚠️ Page 3 — Students at Risk
+ ### Page 3 — Students at Risk
 - Target audience: Analysts and Coordination Team
 - Purpose: Monitor students classified by 30-day risk level
 - Tracks intervention type, status, and history
@@ -41,15 +41,15 @@ The Power BI dashboard is structured into three complementary pages:
 
 ## 📏 Business Rules
  ### Weekly Attendance Rules
-- 🔴 **Priority**: Student missed 100% of weekly classes (2 out of 2)
-- 🟡 **Attention**: Student missed 1 class in the week
-- 🟢 **Normal**: Student had full attendance (0 absences)
+- **Priority**: Student missed 100% of weekly classes (2 out of 2)
+- **Attention**: Student missed 1 class in the week
+- **Normal**: Student had full attendance (0 absences)
 - The Weekly Operations page displays only **Priority** students
 
  ### 30-Day Risk Classification Rules
-- 🔴 **High Risk**: 5 or more absences in the last 30 days
-- 🟠 **Medium Risk**: 3 to 4 absences in the last 30 days
-- 🟢 **Normal**: Fewer than 3 absences in the last 30 days
+- **High Risk**: 5 or more absences in the last 30 days
+- **Medium Risk**: 3 to 4 absences in the last 30 days
+- **Normal**: Fewer than 3 absences in the last 30 days
 
 ---
 
