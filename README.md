@@ -94,7 +94,7 @@ student-attendance-risk-dashboard/
 
 ├── `data/` # Datasets used in the project (simulated and cleaned)
 
-├── visuals/ # Dashboard and project diagrams screenshots
+├── `visuals/` # Dashboard and project diagrams screenshots
 
 ├── `README.md` # Project documentation 
 
