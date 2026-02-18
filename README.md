@@ -84,6 +84,17 @@ The Power BI dashboard is structured into three complementary pages:
 
 ---
 
+## 🧩 Skills Demonstrated
+
+- Translation of business rules into KPIs
+- Risk classification modeling
+- Data preprocessing in Python
+- Data modeling in Power BI
+- DAX measure development
+- Multi-page operational dashboard design
+
+---
+
 ## 📂 Repository Structure
 
 student-attendance-risk-dashboard/
