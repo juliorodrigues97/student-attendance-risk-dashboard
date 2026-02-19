@@ -110,3 +110,8 @@ student-attendance-risk-dashboard/
 ├── `README.md` # Project documentation 
 
 ---
+
+## 👨‍💻 Author
+Julio Rodrigues  
+Data Analyst  
+[LinkedIn](https://www.linkedin.com/in/julio-cesar-rodrigues/) | Portfolio | [GitHub](https://github.com/juliorodrigues97)
